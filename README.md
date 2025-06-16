@@ -28,7 +28,7 @@ This pipeline relies on several external data sources that must be downloaded fi
 
    : The primary raw data containing all assignment records.
 
-   - **Source**: [USPTO Bulk Data](https://bulkdata.uspto.gov/data/patent/assignment/)
+   - **Source**: [USPTO Bulk Data]([https://bulkdata.uspto.gov/data/patent/assignment/](https://data.uspto.gov/bulkdata/datasets/pasyr?fileDataFromDate=1980-01-01&fileDataToDate=2024-12-31))
    - **Action**: Download the desired yearly or weekly XML files.
 
 2. PatentsView Classification Data
